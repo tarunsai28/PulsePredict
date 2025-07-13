@@ -28,7 +28,7 @@
 ![Volume Over Time](screenshots/AAPL_volume.png)
 
 ### 📊 Prediction Error Distribution
-![Prediction Error Distribution](screenshots/prediction_error.png)
+![Prediction Error Distribution](screenshots/AAPL_errors.png)
 
 ---
 
