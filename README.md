@@ -16,10 +16,19 @@
 - 💬 **Tooltips & Indicators** for better UX
 
 ---
+## 🖥️ PulsePredict UI
 
-## 🧪 Demo
+### 💡 Interactive Dashboard Preview
+![Dashboard Screenshot](screenshots/PulsePredictDashboard.jpg)
 
-> Screenshots or hosted link (Streamlit Cloud, if deployed)
+### 📈 Forecast vs Actual
+![Forecast vs Actual](screenshots/AAPL_forecast.png)
+
+### 📉 Volume Over Time
+![Volume Over Time](screenshots/AAPL_volume.png)
+
+### 📊 Prediction Error Distribution
+![Prediction Error Distribution](screenshots/prediction_error.png)
 
 ---
 
@@ -76,6 +85,3 @@ MIT License
 Tarun Sai Tirumala
 🔗 tarunsai28
 
-yaml
-Copy
-Edit
